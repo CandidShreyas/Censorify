@@ -1,0 +1,11 @@
+{
+    "author":"shreyas palvankar",
+    "name":"censorify",
+    "version":"0.1.1",
+    "main":"censoredtext",
+    "denpendencies":{},
+    "engines":{},
+    "engines":{
+        "node":"*"
+    }
+}
